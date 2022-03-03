@@ -1,2 +1,2 @@
 #!/bin/bash
-16 chown —from=guillaume betty hello
+chown —from=guillaume betty hello
